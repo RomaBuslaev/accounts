@@ -1,0 +1,5 @@
+USER = 'user'
+MODERATOR = 'moderator'
+ADMIN = 'admin'
+MAX_LENGTH_VALUES = 150
+MAX_LENGTH = 256
